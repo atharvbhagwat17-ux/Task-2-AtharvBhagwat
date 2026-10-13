@@ -1,4 +1,4 @@
-#PETALMIND_____Iris Flower Classification Using AI 🌸
+#Iris Flower Classification Using AI 🌸
 
 ## Project 2 — DecodeLabs AI Internship
 
